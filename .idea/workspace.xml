@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf84b9fa-0f1c-4b0b-8c19-8a252b396647" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/projetjava et backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/com/exemple/jdbc/ConnexionPostgres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/com/exemple/jdbc/Data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/com/exemple/jdbc/EtudiantDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/com/exemple/jdbc/modele/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetjava et backend/src/com/exemple/jdbc/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projetjava et backend" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36EsGV9LmB9fIpC5tctKCPyemG4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Nouveau dossier (7)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf84b9fa-0f1c-4b0b-8c19-8a252b396647" name="Changes" comment="" />
+      <created>1764582969396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764582969396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
