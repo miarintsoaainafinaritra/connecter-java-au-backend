@@ -8,11 +8,11 @@ import java.sql.ResultSet;
 
 public class ConnexionPostgres {
 
-    private static final String URL = "jdbc:postgresql://localhost:5432/universite";
-    private static final String UTILISATEUR = "postgres";
-    private static final String MOT_DE_PASSE = "votre_mot_de_passe";
+    private String URL = "jdbc:postgresql://localhost:5432/universite";
+    private String UTILISATEUR = "postgres";
+    private String MOT_DE_PASSE = "votre_mot_de_passe";
 
-    public static Connection getConnexion() {
+    public void Connection getConnexion() {
         Connection connexion = null;
 
         try {
@@ -37,7 +37,7 @@ public class ConnexionPostgres {
         return connexion;
     }
 
-    public static void testerConnexion() {
+    public void testerConnexion() {
         Connection conn = null;
         Statement stmt = null;
         ResultSet rs = null;
